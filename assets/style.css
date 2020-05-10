@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(228, 226, 226);
+}
+.content {
+    border-style: dotted;
+    border-color: white;
+    background: white;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    height: 40em;
+}
